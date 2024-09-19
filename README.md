@@ -6,7 +6,7 @@ Kubeslice installation from scratch creating LKE clusters required.
   <img src="img/2.png" />
 </p>
 
-The purpose of this repo is to have a easy way to start with kubeslice on LKE. This basically automates the installation process detailed on https://docs.avesha.io/documentation/enterprise/0.7.0/.
+The purpose of this repo is to have a easy way to start with kubeslice on LKE. This basically automates the installation process detailed on https://docs.avesha.io/documentation/enterprise/
 
 To facilitate the instalation, an Akamai Connected Cloud stackscript associated with this ansible playbook has been created and can be used to deploy the whole setup.
 
